@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @raphaelricardo10
 
-[![Anurag's GitHub stats](https://github-stats-f4eaidn2q-raphaelricardo10.vercel.app/api?username=raphaelricardo10&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-stats-kwfsendvp-raphaelricardo10.vercel.app/api?username=raphaelricardo10&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-stats-f4eaidn2q-raphaelricardo10.vercel.app/api/top-langs/?username=raphaelricardo10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-kwfsendvp-raphaelricardo10.vercel.app/api/top-langs/?username=raphaelricardo10)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
